@@ -1,3 +1,2 @@
-<script type="text/javascript">
-window.location="/";
-</script>
+
+window.location="https://notiviral29.blogspot.com/";
